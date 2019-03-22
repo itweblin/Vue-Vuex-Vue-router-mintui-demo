@@ -31,5 +31,6 @@ export default {
 <style>
 #app{
   font-size: 16px;
+  background-color: #fff;
 }
 </style>

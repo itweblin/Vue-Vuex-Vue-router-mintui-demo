@@ -4,6 +4,7 @@ window.onresize = function () {
   getWidth()
 }
 function getWidth () {
+  // 假设基础值100（用100主要是方便，100px=1rem）
   var base = 100
   // 设计稿宽度
   var width = 750
