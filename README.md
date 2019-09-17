@@ -1,7 +1,7 @@
 # Vue+Vuex+Vue-router+mintui-demo
 
 > 一个简单粗暴的移动端静态项目（Vue+Vuex+Vue-router+mintui-demo），欢迎学习与交流
-演示地址   http://www.ainio.top   or  https://itweblin.github.io
+演示地址 https://itweblin.github.io
 
 
 ## Build Setup
